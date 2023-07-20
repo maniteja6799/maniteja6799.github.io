@@ -1,6 +1,6 @@
 # Hi, I'm Teja 👋
 A Senior Software Engineer in ML at Gojek. I've been in the tech industry since 2016.
-In general, I've worked on ML Engineering, MLOps, NLP and Chatbots so far. My recent open source activity on MLOps can be found (here)[https://github.com/caraml-dev].
+In general, I've worked on ML Engineering, MLOps, NLP and Chatbots so far. My recent open source activity on MLOps can be found <a href="https://github.com/caraml-dev"> here </a> 
 
 <p align='center'>  
    Linkedin: <a href="https://www.linkedin.com/in/mani-teja-6b744291"> 
@@ -52,17 +52,4 @@ Internship (May 2016- Nov 2016). Bangalore
 
 #### Indian Institute of Information Technology, Design and Manufacturing, Jabalpur
 - Bachelor’s Degree, Computer Science Engineering - 8 CGPA - (2013-2017)
-
-<div align="center" style="margin: 40px 0">
-   <a href="https://github.com/romankh3/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=maniteja6799&color=DE002D">
-   </a>
-</div>
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=maniteja6799&show_icons=true&count_private=true"><img
-           height=150
-           src="https://github-readme-stats.vercel.app/api?username=maniteja6799&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/romankh3/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=maniteja6799&layout=compact"/></a>
-</p>
 
