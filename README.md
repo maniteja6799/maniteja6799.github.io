@@ -21,14 +21,14 @@ In general, I've worked on ML Engineering, MLOps, NLP and Chatbots so far. My re
 *   MySQL, PostgreSQL, MongoDB, 
 *   Helm, Terraform, ArgoCD
 *   K8s, GCP, aws, GitHub, GitLab
-*   Spring Framework, Spring Boot, Spring Test, Spring Data JPA, Spring JDBC template, Spring Cloud Contract and so on...
+*   Spring Framework and so on...
 
 ### ◎ My Experience so far
 #### Gojek 
 Senior Software Engineer(Dec 2020- now). Bengaluru, Karnataka, India
 * Working with ML Platform team on providing tools and a E2E platforms for data scientists to build, deploy, experiment their ML models with ease. 
-* Member of (caraml-dev)[https://github.com/caraml-dev]
-* Built a chat bot for customer help experience team. 
+* Member of [caraml-dev](https://github.com/caraml-dev)
+* Built a chat bot for customer help-experience team. 
 
 #### Engati Chatbot Platform 
 Senior Software Engineer (Jan 2020-Dec 2020). Bengaluru, Karnataka, India
@@ -48,8 +48,8 @@ Internship (May 2016- Nov 2016). Bangalore
 ### 📖 Education
 
 #### International Institure of Inromation Technology, Bangalore
-- Executive PG Diploma in Machine Learning and AI - Ongoing - (2023 - *)
+- Executive PG in Machine Learning and AI - Ongoing - (2023 - *)
 
 #### Indian Institute of Information Technology, Design and Manufacturing, Jabalpur
-- Bachelor’s Degree, Computer Science Engineering - 8 CGPA - (2013-2017)
+- Bachelors Degree, Computer Science Engineering - 8 CGPA - (2013-2017)
 
